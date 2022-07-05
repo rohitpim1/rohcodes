@@ -1,0 +1,40 @@
+.technology{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    max-width: 100%;
+    height:200px;
+    background-color: #C4DDFF;
+   
+}
+
+.technology .header{
+    padding-top: 10px;
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+
+@media screen and (max-width:426px){
+    .technology{
+        margin-top: 10px;
+        
+        height: auto;
+    }
+
+    .technology .header{
+        font-size: 1.3rem;
+        text-align: center;
+    }
+
+    .technology .img-carousel{
+        display: flex;
+        flex-direction: column;
+    }
+    .technology .img-carousel .techimg{
+        margin-bottom: 15px;
+    }
+}
+

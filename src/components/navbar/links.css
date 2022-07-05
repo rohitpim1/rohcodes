@@ -1,0 +1,11 @@
+
+Navbar Navbar.Brand{
+    color:#EFEFEF;
+    font-size:1.8rem;
+}
+
+@media screen and (max-width:426px){
+    .brand{
+        font-size:1.1rem;
+    }
+}

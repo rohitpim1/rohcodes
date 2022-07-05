@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&family=Lato&family=Mukta:wght@300&display=swap');
+
+.app{
+    width:100%;
+    height:auto;
+    font-family: 'Mukta', sans-serif !important;
+
+    background-color:#FBFCFC;
+
+   
+}
