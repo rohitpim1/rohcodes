@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rohcodes/static/css/main.b704d0e2.css",
+    "main.js": "/rohcodes/static/js/main.29502952.js",
+    "static/media/profilePic.jpg": "/rohcodes/static/media/profilePic.c7c0bad27fea35615a9a.jpg",
+    "index.html": "/rohcodes/index.html",
+    "main.b704d0e2.css.map": "/rohcodes/static/css/main.b704d0e2.css.map",
+    "main.29502952.js.map": "/rohcodes/static/js/main.29502952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b704d0e2.css",
+    "static/js/main.29502952.js"
+  ]
+}
