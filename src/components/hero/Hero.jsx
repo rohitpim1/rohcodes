@@ -9,13 +9,7 @@ const Hero = () => {
   return (
     <div className="container hero" id="hero">
       <div className="row">
-	  {/*  <div className="col-lg-1 col-md-1 col-sm-1 col-1">
-          <div className="home__social" style={{transform: "rotate(180deg) skew(360deg, 0deg),opacity: 1"}}>
-					<a href="https://www.instagram.com/rohcodes/" target="_blank" rel="noreferrer" className="home__social-link">instagram</a>
-					<a href="https://www.linkedin.com/in/rohit-pimpalkar-rocodes" rel="noreferrer" target="_blank" className="home__social-link">linkedIn</a>
-					<a href="https://github.com/rohitpim1/" target="_blank" rel="noreferrer" className="home__social-link">github</a>
-				</div>
-       </div> */ }
+	
         <div className="col-lg-6 col-md-6 col-sm-10 col-10">
 				<div className="home__title">
         <LightSpeed>
